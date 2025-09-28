@@ -1,28 +1,39 @@
-<h1>Hi, I'm Anmol, an <a href="https://linkedin.com/in/Josh">IT Professional</a> ☺</h1>
+<h1>Hi, I'm Anmol — <a href="https://linkedin.com/in/Josh" target="_blank">IT Professional</a> 👋</h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨‍💻 Selected Information Technology Projects</h2>
 
-- <b>Access Windows 10 Remote Desktop on Azure VM</b>  
-  [Windows-10-RDP-Azure](https://github.com/Anmol-P-Singh/Windows-10-RDP-Azure)
+<ul>
+  <li>
+    <strong>Access Windows 10 Remote Desktop on Azure VM</strong><br/>
+    <a href="https://github.com/Anmol-P-Singh/Windows-10-RDP-Azure" target="_blank">Windows-10-RDP-Azure</a>
+  </li>
+  <li>
+    <strong>osTicket (Help Desk Ticketing System)</strong>
+    <ul>
+      <li><a href="https://github.com/Anmol-P-Singh/osticket-prereqs" target="_blank">Prerequisites and Installation</a></li>
+      <li><a href="https://github.com/Anmol-P-Singh/osTicket-Post-Installation-Configuration" target="_blank">Post-Installation Configuration</a></li>
+      <li><a href="https://github.com/joshmadakorcc/ticket-lifecycle" target="_blank">Ticket Lifecycle Examples</a></li>
+    </ul>
+  </li>
+  <li>
+    <strong>Microsoft Azure Projects</strong>
+    <ul>
+      <li><a href="https://github.com/joshmadakorcc/configure-ad" target="_blank">Configure On-Prem Active Directory in Azure</a></li>
+      <li><a href="https://github.com/joshmadakorcc/azure-network-protocols" target="_blank">Network Security Groups & Protocol Inspection</a></li>
+    </ul>
+  </li>
+</ul>
 
-- <b>osTicket (Help Desk Ticketing System)</b>  
-  - [osTicket: Prerequisites and Installation](https://github.com/Anmol-P-Singh/osticket-prereqs)  
-  - [osTicket: Post-Installation Configuration](https://github.com/Anmol-P-Singh/osTicket-Post-Installation-Configuration)  
-  - [Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+<hr style="margin: 30px 0;" />
 
-- <b>Microsoft Azure Projects</b>  
-  - [Configure On-Prem Active Directory in Azure](https://github.com/joshmadakorcc/configure-ad)  
-  - [NSGs and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
-
----
-
-<h2>🤳 Connect with me:</h2>
-
+<h2>🤳 Connect with me</h2>
 <p>
-  <a href="https://linkedin.com/in/Josh" target="_blank">
-    <img alt="LinkedIn" width="30px" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <a href="https://linkedin.com/in/Josh" target="_blank" style="margin-right: 15px;">
+    <img alt="LinkedIn" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
-  <a href="mailto:preetanmol446@gmail.com" target="_blank">
-    <img alt="Email" width="30px" style="margin-left: 10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <a href="mailto:preetanmol446@gmail.com" target="_blank" style="margin-left: 15px;">
+    <img alt="Email" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
   </a>
 </p>
+
+

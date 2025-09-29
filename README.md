@@ -18,7 +18,7 @@
   <li>
     <strong>Microsoft Azure Projects</strong>
     <ul>
-      <li><a href="https://github.com/joshmadakorcc/configure-ad" target="_blank">Configure On-Prem Active Directory in Azure</a></li>
+      <li><a href="https://github.com/Anmol-P-Singh/Azure-On-Premises-Active-Directory" target="_blank">Configure On-Prem Active Directory in Azure</a></li>
       <li><a href="https://github.com/joshmadakorcc/azure-network-protocols" target="_blank">Network Security Groups & Protocol Inspection</a></li>
     </ul>
   </li>

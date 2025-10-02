@@ -12,7 +12,7 @@
     <ul>
       <li><a href="https://github.com/Anmol-P-Singh/osticket-prereqs" target="_blank">Prerequisites and Installation</a></li>
       <li><a href="https://github.com/Anmol-P-Singh/osTicket-Post-Installation-Configuration" target="_blank">Post-Installation Configuration</a></li>
-      <li><a href="https://github.com/joshmadakorcc/ticket-lifecycle" target="_blank">Ticket Lifecycle Examples</a></li>
+      <li><a href="https://github.com/Anmol-P-Singh/ticket-lifecycle/blob/main/README.md</a></li>
     </ul>
   </li>
   <li>
